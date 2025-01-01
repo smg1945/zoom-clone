@@ -2,7 +2,6 @@
     "name": "zoom",
     "version": "1.0.0",
     "license": "MIT",
-    "type": "module",
     "description": "Zoom Clone using NodeJS, WebRTC and Websockets.",
     "scripts": {
         "dev": "nodemon"
